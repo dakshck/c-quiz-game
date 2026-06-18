@@ -2,14 +2,18 @@
 
 A simple terminal-based quiz game written in C. a learning project btw!
 
-## Features
+---
+
+### Features
 
 - 10 multiple-choice questions
 - Score tracking
 - Percentage calculation
 - Input validation
 
-## Concepts that i got hands on 
+---
+
+### Concepts that i got hands on 
 
 - Functions
 -Function Arguments
@@ -17,7 +21,9 @@ A simple terminal-based quiz game written in C. a learning project btw!
 - User Input
 - Return Values
 
-## Future Improvements
+---
+
+### Future Improvements
 
 - Arrays
 - Loops

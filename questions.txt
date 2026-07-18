@@ -1,0 +1,11 @@
+What is 6 * 7 | 36 | 42 | 48 | B
+What is 9 * 8 | 72 | 81 | 64 | A
+What is 5 * 9 | 40 | 45 | 50 | B
+What is 12 * 4 | 44 | 48 | 52 | B
+What is 7 * 3 | 21 | 24 | 18 | A
+What is 8 * 8 | 56 | 64 | 72 | B
+What is 11 * 7 | 77 | 74 | 81 | A
+What is 4 * 6 | 20 | 24 | 28 | B
+What is 13 * 3 | 36 | 39 | 42 | B
+What is 15 * 5 | 65 | 70 | 75 | C
+

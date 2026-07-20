@@ -8,6 +8,7 @@ A simple terminal-based quiz game written in C. a learning project btw!
 
 - 10 multiple-choice questions
 - Score tracking
+- loads questions from a file
 - Percentage calculation
 - Input validation
 
@@ -17,7 +18,7 @@ A simple terminal-based quiz game written in C. a learning project btw!
 
 - Functions
 - Function Arguments
-- Conditionals
+- File I/O
 - User Input
 - Return Values
 
@@ -25,30 +26,28 @@ A simple terminal-based quiz game written in C. a learning project btw!
 
 ### Future Improvements
 
-- Arrays
-- Loops
-- 100+ Questions with tier handling 
-- Score Saving
-- Better Input Handling
+- Better UI
+- Tiers for level based game
+- User data
+
+---
 
 ### How to Compile and Run (With gcc, clang or minGW compiler installed)
 
+**With Clang**
+```bash 
+clang main.c questions.c -o main && ./main
+```
+
+**With Gcc**
 ```bash
+gcc main.c questions.c -o main && ./main
+```
 
-**With gcc:**
-
-gcc c-quiz.c -o quiz
-./quiz
-
-**With Clang:**
-
-clang c-quiz.c -o quiz
-./quiz
-
-**With MinGW:**
-
-gcc c-quiz.c -o quiz
-quiz.exe
-
+```
+```
+```
+```
+```
 ```
 

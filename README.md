@@ -47,7 +47,4 @@ gcc main.c questions.c -o main && ./main
 ```
 ```
 ```
-```
-```
-```
 

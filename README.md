@@ -44,7 +44,5 @@ clang main.c questions.c -o main && ./main
 gcc main.c questions.c -o main && ./main
 ```
 
-```
-```
-```
+
 
